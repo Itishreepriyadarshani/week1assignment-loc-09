@@ -12,5 +12,5 @@ int main()
     printf("Given number is zero");
     else
     printf("Enter a valid input");
-    return o;
+    return 0;
 }
