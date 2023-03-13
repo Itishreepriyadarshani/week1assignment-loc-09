@@ -5,7 +5,7 @@ int main()
     for(i=1; i<=100; i++)
     {
         if((i%15)==0)
-            printf("FizzBuzz\t"):
+            printf("FizzBuzz\t");
         else if ((i%3)==0)
             printf("Fizz\t");
         else if ((i%5)==0)
@@ -15,5 +15,4 @@ int main()
     }
     return 0;
 }    
-
 
