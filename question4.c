@@ -6,8 +6,8 @@ int main()
     printf("2-substraction");
     printf("3-multiplication");
     printf("4-division");
-    printf("enter a option"):
-    scanf("%d",&option;);
+    printf("enter a option");
+    scanf("%d",&option);
     printf("enter the numbers to perform the desired arithmetic operation");
     scanf("%d%d",&n1,&n2);
     switch(option)
